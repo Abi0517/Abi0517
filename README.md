@@ -38,14 +38,19 @@
 ![NLP](https://img.shields.io/badge/NLP-34495E?style=for-the-badge&logo=spacy&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-1ABC9C?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### 🏆 Certifications & Achievements
+
+[![HackerRank Java](https://img.shields.io/badge/HackerRank-Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/domains/java)
+[![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/domains/algorithms)
+[![HackerRank Skills](https://img.shields.io/badge/HackerRank-Skills_Verification-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_PROFILE)
+
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-2F1B69?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Soft Skills
-![Teamwork](https://img.shields.io/badge/Teamwork-2C3E50?style=for-the-badge&logo=handshake&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-34495E?style=for-the-badge&logo=speakerdeck&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -54,24 +59,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abi0517&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abi0517&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abi0517&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi0517&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 🌐 Connect with Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abi0517)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abi0517&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abi0517&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+
+**"Continuously learning, building, and innovating in the world of AI and data science!"** 🚀
