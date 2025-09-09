@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abinaya!
+# 👋 Hi, I'm Abijith!
 ## AI & ML Enthusiast | Data & Business Analytics | Cognitive Computing
 
 <div align="center">
